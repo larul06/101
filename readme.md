@@ -20,7 +20,7 @@ Note :
 
 ## Arch
 << insert the picture post test >>
-![current + Next Version](./arch.png)
+![current + Next Version](./Arch.png)
 
 
 
