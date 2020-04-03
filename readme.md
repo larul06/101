@@ -19,18 +19,29 @@ Note :
 -Teradici licenses 
 
 ## Arch
-<< insert the picture post test >>
 ![current + Next Version](./Arch.png)
 
 
 
+## Basic installation 
+
+#### Setup 
+
+#### Config option
+
 ## Backlog : 
-Option to apply Avid License during installation 
-Setup connecting to existing Vnet / subnet
+Option to apply Avid License during installation   
+Setup connecting to existing Vnet / subnet  
+Adding firewall rules & seperating subnets (based on security standards)  
+Integrating with Azure AD for authentication  
 
-Adding firewall rules & seperating subnets (based on security standards)
-Integrating with Azure AD for authentication 
 
+
+
+
+
+
+--------------------Page break ---------------------------------------------------------------
 
 # Avid Video Editorial In Azure Cloud
 
