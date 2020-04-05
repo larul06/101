@@ -29,7 +29,7 @@ Note :
 
 #### Config option
 
-## Backlog : 
+## Backlog / Next Versions :
 Option to apply Avid License during installation   
 Setup connecting to existing Vnet / subnet  
 Adding firewall rules & seperating subnets (based on security standards)  
