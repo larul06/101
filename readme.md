@@ -9,7 +9,7 @@ Terraform templates used to deploy the following
 in any azure subscription.  
 
 Note : 
-* Make sure you have the right GPU SKU is available in the region you are trying to deploy
+* Make sure you have the right GPU SKU is available in the region  
 
 ## Requirement : 
 
