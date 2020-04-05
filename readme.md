@@ -26,8 +26,17 @@ Note :
 ## Basic installation 
 
 #### Setup 
+1. [Install az cli](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)    
+2. [Install Terraform](https://www.terraform.io/downloads.html)  
+3. copy EITC-BYOL to a local directory   
+4. login to Azure using az login command line   
+5. Edit  EITC-BYOL/main.tf with custom information   
+(note : Make sure you lock down source IP address / subnet)   
+6. execute terraform init  
+7. execute terrafrom plan   
+8. run terrafrom apply   
 
-#### Config option
+
 
 ## Backlog / Next Versions :
 Option to apply Avid License during installation   
