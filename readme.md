@@ -3,10 +3,10 @@
 
 Terraform templates used to deploy the following 
 
--Media Composer ( GPU ) with Teradici
--Nexis (Online or Nearline)
--Jumphost ( to access Nexis)
-in any azure subscription. 
+-Media Composer ( GPU ) with Teradici  
+-Nexis (Online or Nearline)  
+-Jumphost ( to access Nexis)  
+in any azure subscription.  
 
 Note : 
 * Make sure you have the right GPU SKU is available in the region you are trying to deploy
