@@ -13,10 +13,10 @@ Note :
 
 ## Requirement : 
 
--Terraform 
--Azure subscription 
--Avid Licenses (Nexis, Media composer)
--Teradici licenses 
+-Terraform  
+-Azure subscription   
+-Avid Licenses (Nexis, Media composer)  
+-Teradici licenses   
 
 ## Arch
 ![current + Next Version](./Arch.png)
