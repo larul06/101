@@ -259,6 +259,9 @@
 					"adminPassword": {
 						"value": "[parameters('adminPassword')]"
 					},
+					"adminPublicKey": {
+						"value": "[parameters('adminPublicKey')]"
+					},
 					"_artifactsLocation": {
 						"value": "[parameters('_artifactsLocation')]"
 					},
